@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/priyanshu9588/homebrew-minillm/releases/download/v0.5.6/MiniLLM_0.5.6_x64-setup.exe",
-      "hash": "840a4c527940fce6b7767368a5e057801951ea85a8f1c49c06906f2553a2d258"
+      "hash": "dde53fc5ba3612f01f7248b97036249d5c204029e28e956c6632ba9cd0f232d8"
     }
   },
   "extract_dir": "MiniLLM",
