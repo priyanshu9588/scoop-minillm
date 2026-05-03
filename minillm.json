@@ -5,8 +5,8 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/priyanshu9588/homebrew-minillm/releases/download/v0.6.5/MiniLLM_0.6.1_x64-setup.exe",
-      "hash": "270330b20a75bccc1107db9a9ee56807f7532c5c5637a4b921f12da37305c207"
+      "url": "https://github.com/priyanshu9588/homebrew-minillm/releases/download/v0.6.5/MiniLLM_0.6.5_x64-setup.exe",
+      "hash": "540edf9a5211d614d355dbffb0b404407d38449b80052d1b096b58a9f6183ec9"
     }
   },
   "extract_dir": "MiniLLM",
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/priyanshu9588/homebrew-minillm/releases/download/v0.6.5/MiniLLM_0.6.1_x64-setup.exe"
+        "url": "https://github.com/priyanshu9588/homebrew-minillm/releases/download/v0.6.5/MiniLLM_0.6.5_x64-setup.exe"
       }
     }
   }
