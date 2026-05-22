@@ -1,12 +1,12 @@
 {
-  "version": "0.9.3",
+  "version": "0.9.6",
   "description": "Private on-device LLM chat powered by Gemma 4",
   "homepage": "https://github.com/priyanshu9588/minillm",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/priyanshu9588/homebrew-minillm/releases/download/v0.9.3/MiniLLM_0.9.3_x64-setup.exe",
-      "hash": "28fa5526e4ac46852233e3d45b2ff85e2c1fdf52e51d2dc8932380afb5438c35"
+      "url": "https://github.com/priyanshu9588/homebrew-minillm/releases/download/v0.9.6/MiniLLM_0.9.6_x64-setup.exe",
+      "hash": "7885ee4d902c41b5eae20236485dfd3bd69952b3893d592c7212fea90fee36f4"
     }
   },
   "extract_dir": "MiniLLM",
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/priyanshu9588/homebrew-minillm/releases/download/v0.9.3/MiniLLM_0.9.3_x64-setup.exe"
+        "url": "https://github.com/priyanshu9588/homebrew-minillm/releases/download/v0.9.6/MiniLLM_0.9.6_x64-setup.exe"
       }
     }
   }
